@@ -54,4 +54,5 @@ public class Main {
         //将新构建的辞典树替换掉舊的。
         UserDefineLibrary.FOREST = forest ;
     }
+
 }
